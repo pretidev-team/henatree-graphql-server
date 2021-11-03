@@ -30,6 +30,6 @@
     "graphql": "^14.5.8",
     "mongoose": "^5.7.11",
     "ncp": "^2.0.0",
-    "validator": "^12.0.0"
+    "validator": "^13.7.0"
   }
 }
